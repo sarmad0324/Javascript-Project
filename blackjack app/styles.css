@@ -1,0 +1,40 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(17, 80, 41);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.abc{
+    padding: 50px 10px;
+    text-align: center;
+    color: beige;
+}
+h1 {
+    color: goldenrod;
+    font-size: 50px;
+}
+h2{
+    font-style: italic;
+}
+button{
+    color: rgb(60, 102, 60);
+    background-color:gold ;
+    padding: 10px 35px;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-radius: 3px;
+    cursor: pointer;
+    border: none;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+button:hover{
+    color: gold;
+    background-color:rgb(6, 49, 6) ;
+}
+button:active{
+    border: 2px solid yellowgreen;
+}
+
+

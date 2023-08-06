@@ -1,0 +1,29 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.abc {
+    background-image: url("6.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 100px 0px;
+    text-align: center;
+}
+h2{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+ 
+    margin: 5px 0px ;
+    padding: 10px 60px;
+    font-size: medium;
+    font-weight: bold;
+    color: azure;
+    background-color: orange;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: olivedrab
+}
